@@ -1,0 +1,14 @@
+{
+  "name": "@modster/bar-chart-transitions",
+  "main": "0c54114690ed9cda@478.js",
+  "version": "478.0.0",
+  "homepage": "https://observablehq.com/@modster/bar-chart-transitions",
+  "author": {
+    "name": "MichaelGreeff",
+    "url": "https://observablehq.com/@modster"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
